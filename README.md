@@ -6,13 +6,6 @@ This repository contains a Jupyter Notebook implementation of **linear regressio
 The project focuses on understanding the complete linear regression workflow and data preparation steps rather than relying entirely on high-level machine learning libraries.
 
 ---
-
-## Repository Structure
-
-├── AS-05_Huseyn_.ipynb
-├── HousingData.csv
-└── README.md
-
 ## Dataset Information
 - **Dataset:** Housing Dataset
 - **Target Variable:** `MEDV` (Median value of owner-occupied homes)
